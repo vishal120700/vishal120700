@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Pagare</h1>
-<h3 align="center">Data Science Enthusiast</h3>
+<h3 align="center">Data Analytics Enthusiast</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
